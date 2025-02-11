@@ -1,4 +1,4 @@
-# [PYTHON] xGBoost without libary
+# [PYTHON] AdaBoost, GradientBoost, xGBoost without libary
 
 ## Introduction
 
